@@ -1,0 +1,3 @@
+this is my new file
+right now im in insert mode bcs 
+
